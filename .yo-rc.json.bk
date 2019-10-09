@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "mx.com.sadead.store",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "microservice",
+    "baseName": "notification",
+    "packageName": "mx.com.sadead.store",
+    "packageFolder": "mx/com/sadead/store",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDI4Y2I2ODMxZDkzZTQ4MWViYjMxYzU1ZTIzMmY2ZjFjZGIyMTQ4NGE3MjU4OGFmNjFhYjk0NjRiYmFlYzBmMDA5ZGQ0MWY5MjRlODVmZTNjNjhiM2JlMzY3ZmNjZjcxOTNkYmIzMjQ2ZTg1MjQ0YjAxMmM0MTZkYTY0NzM1ZDE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
